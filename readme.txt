@@ -97,7 +97,7 @@ Basic details
 
 9. script path : http://localhost/Event_Management_System
 
-10.Due to time limit I'm not able to draw proper UML | use case charts
+
 
 
 
