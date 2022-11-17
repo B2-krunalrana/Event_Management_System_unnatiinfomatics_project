@@ -1,0 +1,33 @@
+
+
+Authore : Krunal Rana 
+Co.no :   +919824085934
+Email :   ranakrunal2704@gmail.com 
+Project Email : project.krunalrana@gmail.com 
+
+#######################################################
+Here I try to make map for admin pannle or for user admin login like all event 
+#######################################################
+
+Management Side
+-Login Page - The page where the system users will submit theri credentials to access the event management system.
+-Hompe Page - The page where the system user will be redirected by default after logging in.
+-Venues Page - The page where the event organizing company's venues are listed and managed.
+-Events Page - The page where the company's handled events are listed and managed.
+-Venue Book List - The page where the clients book inquiry request online are listed and managed.
+-Event Audience List - The page where the event audience or posible audience are listed that submited their registration request using the website.
+-Audience Report - The page that lists the audience of a certain event. The list are organized by events and ready to be printed.
+-Venue Report - The page that lists the events in a certain venue. The list are organized by the venue and month, and the list is also ready to be printed.
+-Users Page - The page where the event management system users are listed and managed.
+-System Settings - The page where can system admin managed the company details to be shown on the website.
+
+#########################################################################
+
+Visitor Side
+
+-Home Page - The page where the visitor will be redirected by default when browseing the website. This page display the upcoming events. 
+-Venues Page - The page where the event organizing company's venues are shown.
+-About Page - The page where the event organizing compay's about content is being shown.
+
+
+#########################################################################
